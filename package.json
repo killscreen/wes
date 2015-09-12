@@ -1,0 +1,25 @@
+{
+  "name": "wes",
+  "version": "0.1.0",
+  "description": "Web Entertainment System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/killscreen/wes.git"
+  },
+  "keywords": [
+    "retro",
+    "gaming",
+    "console",
+    "wes"
+  ],
+  "author": "Victor Woeltjen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/killscreen/wes/issues"
+  },
+  "homepage": "https://github.com/killscreen/wes"
+}
